@@ -7,6 +7,11 @@ PillPal is a simple web app built with **Streamlit** that helps a person keep tr
 *It is for demonstration purposes only. Please consult a doctor or pharmacist for professional guidance.*
 
 
+## Links 
+- **Video Demo:** https://youtu.be/TH1vO8sZ-Ws?si=LKl1hdO9ytIheW1h
+- **Live App:** https://pillpal---medication-tracker-uqebkkvosa7hjcrgzsve3k.streamlit.app/
+
+
 ## Problem Statement 
 Managing multiple medications can quickly become confusing. Keeping track of how many pills to take, schedules, quantities and expiry dates is not always easy. 
 PillPal makes medication management simpler by bringing together everything in one place to help users stay organized.
